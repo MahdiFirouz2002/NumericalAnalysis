@@ -5,4 +5,4 @@ numerical analysis crash course codes in spring 2023
   calculate derivative and integral and etc
 
 ### pandas numpy:
-  load temprature and cities dataset for analize cities temprature base of time and merge two dataset together
+  load temprature and cities dataset for analize cities temprature and merge two dataset together
